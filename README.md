@@ -2,12 +2,25 @@
 
 ### I build Web, Mobile, Desktop and Backend applications
 
-[![Profile views](https://komarev.com/ghpvc/?username=luantran-working&color=blue)](https://github.com/luantran-working)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmilu.io.vn&label=website)](https://milu.io.vn)
-[![GitHub followers](https://img.shields.io/github/followers/luantran-working?style=flat&logo=github)](https://github.com/luantran-working?tab=followers)
-[![Facebook](https://img.shields.io/badge/Facebook-luancttta6-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/luancttta6)
+<p align="left">
+  <a href="https://github.com/luantran-working">
+    <img src="https://komarev.com/ghpvc/?username=luantran-working&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/luantran-working?tab=followers">
+    <img src="https://img.shields.io/github/followers/luantran-working?label=Followers&style=flat&logo=github" />
+  </a>
+  <a href="https://github.com/luantran-working?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-13-blue?style=flat&logo=github" />
+  </a>
+  <a href="https://milu.io.vn">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fmilu.io.vn&label=Website" />
+  </a>
+  <a href="https://www.facebook.com/luancttta6">
+    <img src="https://img.shields.io/badge/Facebook-luancttta6-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
-[![luantran-working](https://github-readme-stats.vercel.app/api?username=luantran-working&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)](#trần-minh-luân-title)
+[![luantran-working](https://github-readme-stats.vercel.app/api?username=luantran-working&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true)](#trần-minh-luân-title)
 
 - 🏢 I'm currently working at **Công ty cổ phần IIT**
 - 🌏 Based in **Cần Thơ, Việt Nam**
