@@ -23,7 +23,6 @@
 - 🌏 Based in **Cần Thơ, Việt Nam**
 - 💻 I specialize in **React**, **React Native**, **TypeScript**, **Next.js**, **Node.js**, **NestJS**, **Golang**, **Tauri** and **Electron**
 - 🚀 I enjoy building full-stack products across **web**, **mobile**, **desktop** and **backend systems**
-- 📖 Learn more about me on my website: **[milu.io.vn](https://milu.io.vn)**
 - 📫 Connect with me on **[Facebook](https://www.facebook.com/luancttta6)**
 
 ## Favorite Tech
