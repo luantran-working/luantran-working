@@ -12,9 +12,6 @@
   <a href="https://github.com/luantran-working?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-13-blue?style=flat&logo=github" />
   </a>
-  <a href="https://milu.io.vn">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fmilu.io.vn&label=Website" />
-  </a>
   <a href="https://www.facebook.com/luancttta6">
     <img src="https://img.shields.io/badge/Facebook-luancttta6-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
